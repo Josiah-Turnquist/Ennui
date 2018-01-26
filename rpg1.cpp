@@ -15,6 +15,7 @@
 
 using namespace std;
 
+// Test comment
 
 #include "rpg.h"
 
