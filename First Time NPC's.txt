@@ -1,0 +1,14 @@
+BLACKSMITH
+As you enter the doorless building, you hear the clank of hammer on steal. A large man with biceps the size of your head is focusesd on smithing a... sword? It seems that he has just started, so it's hard to discern what it is he is creating. 
+He hears your footsteps as you enter the building
+BlackSmith : Aye, mate, ya look lost. New in town?
+You nod your head in confirmation.
+Blacksmith: Well I'm this here village's blacksmith, th' one stop shop for all yer offensive and deffensive needs. If ya need anything smithed, I;ve got th' best quality steel you'll find.
+You give a small smile as you admire his handy work and take a look at his current inventory.
+
+COOK
+The smell of fresh bread immeadiattely hits your nose as you enter the bakery. Inside, stands a seemingly aged man, maybe around his 50's? He's attending to the display of different pasteries before he looks up to see you walk in.
+Cook: Hello there! HAven'st seen you around before, you new here?
+You nod your head and give a small "yep" in response.
+Cook: In that case, pleasure to meet your aquiantance! I am the village's cook and baker, and I don't mean to boast, but  I sell the tastiest, sweetest food you'll find in town!
+Cook: Have a look see if you'd like to buy anything!
