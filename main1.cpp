@@ -7,8 +7,6 @@
 #include <cstdlib>
 #include <ctime>
 
-// Visual Studio / Github cooperation test.
-
 #define WINVER 0x0502//#define _WIN32_WINNT 0x0500
 #include <windows.h>
 
@@ -94,12 +92,14 @@ int main () {
 	inventory.Add("Food", "Food", 2, 0, 0, 10);
 	dialogue.Addline("Welcome to Vengeance.");
 	dialogue.Addline("Push [H] for help.");
+	dialogue.Addline("Test is working."); 
 	
-	srand(time(0));
+	srand(time(0)); // RANDOM SEED
 	
 	while (true) {
 		MoveCursor(0, 0);
 		
+
 		while (gameStatus == "MENU") {
 			MoveCursor(0, 0);
 			menuInput = Menu(3, 4, (windowWidth - 1), (windowHeight - 1), true); // Draw menu as well as recieve input.
