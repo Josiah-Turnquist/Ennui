@@ -124,9 +124,9 @@ int main () {
 		dialogue.Addline("You used to live in a small remote village, with small cottages littered ");
 		dialogue.Addline("sparingly between neighbors. ", false);
 		Sleep(3600);
-		dialogue.Addline("It wasn't a great life, but it was a peacful and fullfilling life, and one that you enjoyed.", false);
+		dialogue.Addline("It wasn't a great life, but it was a peacful and fullfilling life, and onethat you enjoyed.", false);
 		Sleep(3600);
-		dialogue.Addline("You wished you could keep this life, but Fate had other plans in store for you, and grim ones."); 
+		dialogue.Addline("You wished you could keep this life, but Fate had other plans in store for you, and grimones."); 
 		Sleep(3600);
 		dialogue.Addline("One sunny peaceful day, a demon lord appeared.");
 		Sleep(2800);
